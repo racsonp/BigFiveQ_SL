@@ -1,0 +1,66 @@
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.dll
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.pdb
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\Bin\Debug\AppManifest.xaml
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.xap
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQTestPage.html
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\ResolveAssemblyReference.cache
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.g.resources
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.dll
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.pdb
+c:\users\noscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\XapCacheFile.xml
+C:\Users\nOscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\App.g.i.cs
+C:\Users\nOscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\HojaPerfilBfq.g.i.cs
+C:\Users\nOscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\MainPage.g.i.cs
+C:\Users\nOscar\documents\visual studio 2010\Projects\ReporteBigFiveQ\ReporteBigFiveQ\obj\Debug\GraficoBigFiveQ.g.i.cs
+E:\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.dll
+E:\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.pdb
+E:\BigFiveQ\ReporteBigFiveQ\Bin\Debug\AppManifest.xaml
+E:\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.xap
+E:\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQTestPage.html
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\ResolveAssemblyReference.cache
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\App.g.i.cs
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\GraficoBigFiveQ.g.i.cs
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\HojaPerfilBfq.g.i.cs
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\MainPage.g.i.cs
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.g.resources
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.dll
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.pdb
+E:\BigFiveQ\ReporteBigFiveQ\obj\Debug\XapCacheFile.xml
+E:\Projects\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.dll
+E:\Projects\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.pdb
+E:\Projects\BigFiveQ\ReporteBigFiveQ\Bin\Debug\AppManifest.xaml
+E:\Projects\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.xap
+E:\Projects\BigFiveQ\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQTestPage.html
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\App.g.i.cs
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\GraficoBigFiveQ.g.i.cs
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\HojaPerfilBfq.g.i.cs
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\MainPage.g.i.cs
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.g.resources
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.dll
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.pdb
+E:\Projects\BigFiveQ\ReporteBigFiveQ\obj\Debug\XapCacheFile.xml
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.dll
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\GraficoBigFiveQ.g.i.cs
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\HojaPerfilBfq.g.i.cs
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.g.resources
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.dll
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.pdb
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.pdb
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\AppManifest.xaml
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.xap
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQTestPage.html
+E:\Projects\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\XapCacheFile.xml
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.dll
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.pdb
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\AppManifest.xaml
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQ.xap
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\Bin\Debug\ReporteBigFiveQTestPage.html
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\GraficoBigFiveQ.g.i.cs
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\HojaPerfilBfq.g.i.cs
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.g.resources
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.dll
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\ReporteBigFiveQ.pdb
+E:\Code\BigFiveQ\scr\ReporteBigFiveQ\obj\Debug\XapCacheFile.xml

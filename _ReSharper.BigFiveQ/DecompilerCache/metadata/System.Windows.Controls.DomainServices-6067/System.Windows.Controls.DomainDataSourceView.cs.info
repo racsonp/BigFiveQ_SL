@@ -1,0 +1,15 @@
+R# version: 5.1.3000.12
+assembly System.Windows.Controls.DomainServices, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.Windows.Controls.DomainServices.dll mtime 1/14/2011 8:13:50 PM
+referenced assembly mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\Silverlight\v4.0\mscorlib.dll mtime 8/26/2010 6:59:40 AM
+referenced assembly System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\Silverlight\v4.0\System.Windows.dll mtime 8/26/2010 6:59:40 AM
+referenced assembly System.Windows.Data, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Data.dll mtime 8/26/2010 8:17:48 AM
+referenced assembly System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\Silverlight\v4.0\system.dll mtime 8/26/2010 6:59:40 AM
+referenced assembly System.ServiceModel.DomainServices.Client, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.dll mtime 1/14/2011 8:13:36 PM
+referenced assembly System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\Silverlight\v4.0\System.Core.dll mtime 8/26/2010 6:59:40 AM

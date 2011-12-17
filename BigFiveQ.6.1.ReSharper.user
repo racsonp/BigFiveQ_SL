@@ -1,0 +1,1430 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5A5A115B-0E7D-4C59-B02F-ADCBEA0DF2FD/d:Views/f:PersonasPage.xaml.cs" caret="4044" fromTop="6" />
+      <File id="5A5A115B-0E7D-4C59-B02F-ADCBEA0DF2FD/d:Views/f:PersonaDetail.xaml" caret="728" fromTop="2" />
+      <File id="492225CF-C5DC-4CE9-870C-E69E8BAFDC23/f:IDimencion.cs" caret="1552" fromTop="21" />
+      <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CalculatePointsTest.cs" caret="3401" fromTop="11" />
+      <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CalificacionExamenBfqTest.cs" caret="0" fromTop="0" />
+      <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PersisteEvaluacionTest.cs" caret="0" fromTop="0" />
+      <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:ProcesaExamenFromWebTest.cs" caret="322" fromTop="13" />
+      <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CalculoPuntajesDimensionesTest.cs" caret="1741" fromTop="15" />
+      <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:App.config" caret="0" fromTop="0" />
+      <File id="B050A594-E6F5-47F2-BA02-53973C378032/f:Web.config" caret="1247" fromTop="13" />
+      <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="3685" fromTop="13" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Common/f:PuntajeBigFive.cs" caret="58" fromTop="2" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:ProcesarPuntos.cs" caret="0" fromTop="0" />
+      <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="0" fromTop="0" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Entities/f:Genero.cs" caret="0" fromTop="0" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Entities/f:Persona.cs" caret="150" fromTop="8" />
+      <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:PersitensiaNh/f:PersisteEvaluacion.cs" caret="2557" fromTop="13" />
+      <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:ExamenBfqService.svc.cs" caret="2710" fromTop="19" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:ProcesaExamenFormWeb.cs" caret="989" fromTop="19" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:EvaluaExamenBfq.cs" caret="490" fromTop="14" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:CalculaPuntajeDimension.cs" caret="292" fromTop="10" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Data/d:PreguntaRespuesta/f:QuestionDataService.cs" caret="0" fromTop="0" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Dimensiones/f:ISubDimension.cs" caret="136" fromTop="6" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:Valor.cs" caret="128" fromTop="7" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="3228" fromTop="10" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesA.cs" caret="3228" fromTop="9" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesT.cs" caret="3223" fromTop="1" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesEE.cs" caret="3223" fromTop="1" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesAM.cs" caret="3229" fromTop="5" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesD.cs" caret="2720" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:ExamenBfqService.svc.cs" caret="2531" fromTop="15" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:CalculaPuntajeDimension.cs" caret="301" fromTop="10" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:Valor.cs" caret="0" fromTop="0" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:Valor.cs" caret="290" fromTop="11" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="0" fromTop="0" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:Valor.cs" caret="128" fromTop="7" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="285" fromTop="10" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="284" fromTop="10" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="490" fromTop="12" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="1471" fromTop="5" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="3152" fromTop="24" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="3228" fromTop="29" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="137" fromTop="8" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="3231" fromTop="11" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesA.cs" caret="3028" fromTop="22" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesA.cs" caret="3226" fromTop="29" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesA.cs" caret="3228" fromTop="9" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesT.cs" caret="2209" fromTop="28" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesT.cs" caret="2721" fromTop="28" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesT.cs" caret="3225" fromTop="29" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesT.cs" caret="3226" fromTop="2" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesEE.cs" caret="516" fromTop="3" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesEE.cs" caret="3028" fromTop="16" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesEE.cs" caret="3225" fromTop="21" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesEE.cs" caret="3226" fromTop="2" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesAM.cs" caret="3032" fromTop="19" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesAM.cs" caret="3229" fromTop="21" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesAM.cs" caret="3230" fromTop="7" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesD.cs" caret="2719" fromTop="12" />
+      <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesD.cs" caret="2720" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="1" />
+      <Item value="using" priority="24" />
+      <Item value="public" priority="149" />
+      <Item value="virtual" priority="31" />
+      <Item value="static" priority="1" />
+      <Item value="Telefono" priority="2" />
+      <Item value="Entities" priority="2" />
+      <Item value="Entity`0" priority="4" />
+      <Item value="class" priority="7" />
+      <Item value="string" priority="48" />
+      <Item value="set" priority="1" />
+      <Item value="Persona`0" priority="48" />
+      <Item value="Persona" priority="12" />
+      <Item value="PersonaEvaluacion`0" priority="1" />
+      <Item value="System" priority="2" />
+      <Item value="DateTime`0" priority="9" />
+      <Item value="Resultado`0" priority="11" />
+      <Item value="Resultado" priority="1" />
+      <Item value="int" priority="30" />
+      <Item value="Examen`0" priority="4" />
+      <Item value="var" priority="135" />
+      <Item value="new" priority="146" />
+      <Item value="Nombre" priority="0" />
+      <Item value="examen" priority="16" />
+      <Item value="PuntajeGlobal" priority="0" />
+      <Item value="resultado" priority="12" />
+      <Item value="Evaluacion`0" priority="28" />
+      <Item value="Examen" priority="1" />
+      <Item value="Fecha" priority="0" />
+      <Item value="eval" priority="12" />
+      <Item value="Evaluaciones" priority="6" />
+      <Item value="evaluaciones" priority="2" />
+      <Item value="PersonaEvaluada" priority="0" />
+      <Item value="persona" priority="25" />
+      <Item value="Uno`0" priority="0" />
+      <Item value="sessionFactory" priority="0" />
+      <Item value="protected" priority="4" />
+      <Item value="NombreExamen" priority="2" />
+      <Item value="FechaRealizacion" priority="2" />
+      <Item value="FechaAsignacion" priority="0" />
+      <Item value="Puntaje" priority="0" />
+      <Item value="Puntaje1" priority="0" />
+      <Item value="Puntaje2" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Evaluacion" priority="8" />
+      <Item value="Resultados" priority="4" />
+      <Item value="List" priority="21" />
+      <Item value="resultados" priority="0" />
+      <Item value="c1" priority="5" />
+      <Item value="ICollection" priority="0" />
+      <Item value="coll" priority="1" />
+      <Item value="res" priority="1" />
+      <Item value="m1" priority="6" />
+      <Item value="x" priority="1" />
+      <Item value="s" priority="1" />
+      <Item value="result" priority="3" />
+      <Item value="lista" priority="0" />
+      <Item value="List&lt;Evaluacion&gt;" priority="0" />
+      <Item value="BigFive" priority="0" />
+      <Item value="Web" priority="1" />
+      <Item value="Models" priority="6" />
+      <Item value="EstadoExamen`0" priority="0" />
+      <Item value="Estado" priority="0" />
+      <Item value="EstadoEvaluacion`0" priority="0" />
+      <Item value="BigFiveQ.Server" priority="1" />
+      <Item value="Data" priority="5" />
+      <Item value="void" priority="46" />
+      <Item value="BigFiveQ" priority="6" />
+      <Item value="Client" priority="1" />
+      <Item value="Admin" priority="0" />
+      <Item value="Class1`0" priority="0" />
+      <Item value="null" priority="30" />
+      <Item value="try" priority="7" />
+      <Item value="context" priority="17" />
+      <Item value="query" priority="7" />
+      <Item value="return" priority="56" />
+      <Item value="LoadOperation`0" priority="1" />
+      <Item value="Action`0" priority="1" />
+      <Item value="IEnumerable" priority="2" />
+      <Item value="_getPersonasCallback" priority="2" />
+      <Item value="getPersonasCallback" priority="2" />
+      <Item value="private" priority="45" />
+      <Item value="BigFiveQAdminContext`0" priority="2" />
+      <Item value="PersonaDataService`0" priority="1" />
+      <Item value="Context" priority="18" />
+      <Item value="_prsonasLoadOperation" priority="3" />
+      <Item value="OnLoadPersonasCompleted`0" priority="1" />
+      <Item value="personas" priority="4" />
+      <Item value="ComponentModel" priority="1" />
+      <Item value="BigFiveQ.Client.ViewModel.Common" priority="0" />
+      <Item value="ViewModel" priority="0" />
+      <Item value="ViewModel`0" priority="2" />
+      <Item value="ObservableCollection" priority="16" />
+      <Item value="_personas" priority="3" />
+      <Item value="value" priority="21" />
+      <Item value="RaisePropertyChanged`0" priority="1" />
+      <Item value="_selectedPersona" priority="10" />
+      <Item value="PersonaDataService" priority="2" />
+      <Item value="Personas" priority="11" />
+      <Item value="if" priority="57" />
+      <Item value="foreach" priority="26" />
+      <Item value="SelectedPersona" priority="6" />
+      <Item value="ObservableCollection&lt;Persona&gt;" priority="1" />
+      <Item value="_viewModels" priority="0" />
+      <Item value="PersonaViewModel`0" priority="1" />
+      <Item value="Views" priority="6" />
+      <Item value="this" priority="29" />
+      <Item value="_dataService" priority="1" />
+      <Item value="_nombres" priority="1" />
+      <Item value="NotifyPropertyChanged`0" priority="16" />
+      <Item value="_apellidos" priority="1" />
+      <Item value="_telefono" priority="1" />
+      <Item value="_edad" priority="1" />
+      <Item value="Apellidos" priority="0" />
+      <Item value="Edad" priority="1" />
+      <Item value="Nombres" priority="2" />
+      <Item value="col" priority="1" />
+      <Item value="persona1" priority="0" />
+      <Item value="Service1Client`0" priority="0" />
+      <Item value="client" priority="17" />
+      <Item value="Server" priority="2" />
+      <Item value="BigFiveQEntities1`0" priority="0" />
+      <Item value="Service" priority="1" />
+      <Item value="Services" priority="4" />
+      <Item value="_viewModel" priority="36" />
+      <Item value="Personas`0" priority="0" />
+      <Item value="Client.Admin.DataServices" priority="0" />
+      <Item value="_persona" priority="7" />
+      <Item value="RoutedEventHandler" priority="6" />
+      <Item value="PersonaDetail`0" priority="0" />
+      <Item value="PersonaDetail" priority="2" />
+      <Item value="personaDetalle" priority="8" />
+      <Item value="as" priority="7" />
+      <Item value="ViewModels" priority="3" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="DomainDataSource`0" priority="3" />
+      <Item value="ds" priority="1" />
+      <Item value="me" priority="1" />
+      <Item value="String`0" priority="3" />
+      <Item value="personaDomainDataSource" priority="4" />
+      <Item value="_dataSource" priority="0" />
+      <Item value="PersonasViewModel`0" priority="1" />
+      <Item value="_domainContext" priority="3" />
+      <Item value="EntityQuery" priority="1" />
+      <Item value="entityQuery" priority="0" />
+      <Item value="PersonaContext`0" priority="0" />
+      <Item value="PersonaContext" priority="0" />
+      <Item value="op" priority="0" />
+      <Item value="PersonasDataService`0" priority="1" />
+      <Item value="BigFiveQAdmin" priority="2" />
+      <Item value="_dataServices" priority="11" />
+      <Item value="PersonasDataService" priority="0" />
+      <Item value="GetPersonasCallback`0" priority="1" />
+      <Item value="PersonasViewModel" priority="0" />
+      <Item value="DataContext" priority="2" />
+      <Item value="OnSaveBooks`0" priority="0" />
+      <Item value="bool" priority="5" />
+      <Item value="newPersona" priority="1" />
+      <Item value="IFormatProvider`0" priority="1" />
+      <Item value="true" priority="3" />
+      <Item value="Agregar`0" priority="0" />
+      <Item value="Guid`0" priority="1" />
+      <Item value="_delCallback" priority="0" />
+      <Item value="SubmitOperation`0" priority="0" />
+      <Item value="_delOperation" priority="0" />
+      <Item value="TxtNombreRegistro" priority="0" />
+      <Item value="_evaluaciones" priority="1" />
+      <Item value="_selectedevaluacion" priority="0" />
+      <Item value="_selectedEvaluacion" priority="0" />
+      <Item value="Action" priority="2" />
+      <Item value="IQueryable" priority="0" />
+      <Item value="personasId" priority="1" />
+      <Item value="e" priority="14" />
+      <Item value="getEvaluacionesCallback" priority="1" />
+      <Item value="_getEvaluacionesCallback" priority="1" />
+      <Item value="_evaluacionLoadOperation" priority="3" />
+      <Item value="OnLoadEvaluacionesCompleted`0" priority="0" />
+      <Item value="EntityList" priority="0" />
+      <Item value="evaluacions" priority="2" />
+      <Item value="else" priority="5" />
+      <Item value="evaluacion" priority="12" />
+      <Item value="SelectedEvaluacion" priority="1" />
+      <Item value="EvaluacionesViewModel" priority="0" />
+      <Item value="RoutedEventHandler`0" priority="2" />
+      <Item value="enum" priority="1" />
+      <Item value="Estados`0" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="ExamenEstado`0" priority="2" />
+      <Item value="estado" priority="2" />
+      <Item value="_estados" priority="2" />
+      <Item value="_estado" priority="0" />
+      <Item value="ObservableCollection&lt;ExamenEstado&gt;" priority="1" />
+      <Item value="Evaluaciones`0" priority="1" />
+      <Item value="fa" priority="0" />
+      <Item value="RegularExpression" priority="0" />
+      <Item value="msg" priority="11" />
+      <Item value="ISessionFactory`0" priority="0" />
+      <Item value="sf" priority="0" />
+      <Item value="CreaSessionfactory`0" priority="0" />
+      <Item value="Assert`0" priority="14" />
+      <Item value="CreaSamplData`0" priority="0" />
+      <Item value="submitOperation" priority="1" />
+      <Item value="DataMisalignedException`0" priority="0" />
+      <Item value="Email" priority="5" />
+      <Item value="Password" priority="2" />
+      <Item value="PersonaPresentationModel`0" priority="0" />
+      <Item value="from" priority="3" />
+      <Item value="_context" priority="0" />
+      <Item value="orderby" priority="0" />
+      <Item value="select" priority="1" />
+      <Item value="PersonaPresentationModel" priority="0" />
+      <Item value="p" priority="15" />
+      <Item value="preguntaD" priority="1" />
+      <Item value="Controls" priority="0" />
+      <Item value="PreguntaControl`0" priority="5" />
+      <Item value="PreguntaControl" priority="0" />
+      <Item value="v" priority="0" />
+      <Item value="preunta0" priority="0" />
+      <Item value="INotifyPropertyChanged`0" priority="0" />
+      <Item value="preguntaN" priority="23" />
+      <Item value="ExamenBfqServiceClient`0" priority="11" />
+      <Item value="proxy" priority="1" />
+      <Item value="EventHandler&lt;GetAllRespuestasCompletedEventArgs&gt;" priority="0" />
+      <Item value="ISelectableItem`0" priority="3" />
+      <Item value="SelectableItem`0" priority="2" />
+      <Item value="false" priority="8" />
+      <Item value="selected" priority="0" />
+      <Item value="respuesta" priority="5" />
+      <Item value="respuestaN" priority="2" />
+      <Item value="_repuestasBfq" priority="11" />
+      <Item value="RadioButtonListItems" priority="3" />
+      <Item value="_list" priority="0" />
+      <Item value="m_radioButtonListItems" priority="2" />
+      <Item value="respuestasN" priority="1" />
+      <Item value="list" priority="2" />
+      <Item value="selectableItem" priority="0" />
+      <Item value="ListBox`0" priority="1" />
+      <Item value="respuestas" priority="5" />
+      <Item value="_respustas" priority="0" />
+      <Item value="SelectableItem" priority="2" />
+      <Item value="r" priority="9" />
+      <Item value="RadioButtonList`0" priority="1" />
+      <Item value="item" priority="1" />
+      <Item value="_respuestas" priority="10" />
+      <Item value="ctrlWizard" priority="2" />
+      <Item value="_respuesta" priority="0" />
+      <Item value="CargarRespuestas`0" priority="0" />
+      <Item value="rl" priority="1" />
+      <Item value="vm" priority="1" />
+      <Item value="sender" priority="4" />
+      <Item value="ReporteWindow`0" priority="0" />
+      <Item value="reporte" priority="0" />
+      <Item value="Client.ApplicationServices" priority="0" />
+      <Item value="ApplicationServices" priority="0" />
+      <Item value="LoginUI" priority="0" />
+      <Item value="LoginForm`0" priority="1" />
+      <Item value="login" priority="4" />
+      <Item value="LoginRegistrationWindow`0" priority="0" />
+      <Item value="ExamenBFQServiceClient`0" priority="0" />
+      <Item value="hojaDeRespuestas" priority="2" />
+      <Item value="btnFin" priority="0" />
+      <Item value="ExamenBfqService" priority="6" />
+      <Item value="cliente" priority="0" />
+      <Item value="ea" priority="6" />
+      <Item value="HojaDeRespuestas`0" priority="2" />
+      <Item value="EventHandler" priority="0" />
+      <Item value="ExamenBfqService`0" priority="0" />
+      <Item value="CommitExamenCompletedEventArgs`0" priority="0" />
+      <Item value="eventHandler" priority="1" />
+      <Item value="service" priority="4" />
+      <Item value="RespuestasDto`0" priority="0" />
+      <Item value="respuestasDto" priority="2" />
+      <Item value="_hojaDeRespuestas" priority="0" />
+      <Item value="HojaDeRespuestas" priority="0" />
+      <Item value="Pregunta`0" priority="5" />
+      <Item value="Index" priority="2" />
+      <Item value="dto" priority="3" />
+      <Item value="Respuesta`0" priority="4" />
+      <Item value="Value" priority="1" />
+      <Item value="Contestaciones`0" priority="0" />
+      <Item value="NumeroPregunta" priority="0" />
+      <Item value="RepuestaSeleccionada" priority="1" />
+      <Item value="Contestacion`0" priority="3" />
+      <Item value="contestacion" priority="8" />
+      <Item value="contestaciones" priority="3" />
+      <Item value="dataService" priority="0" />
+      <Item value="RespuestaDto`0" priority="5" />
+      <Item value="PreguntaNumero" priority="1" />
+      <Item value="UIElement`0" priority="2" />
+      <Item value="textboxes" priority="0" />
+      <Item value="uiElements" priority="0" />
+      <Item value="uiElement" priority="7" />
+      <Item value="typeof" priority="1" />
+      <Item value="preguntaControl" priority="5" />
+      <Item value="pregutna" priority="1" />
+      <Item value="CheckBox`0" priority="2" />
+      <Item value="where" priority="3" />
+      <Item value="c" priority="2" />
+      <Item value="contestacione" priority="6" />
+      <Item value="punto" priority="1" />
+      <Item value="RespuestaSeleccionada" priority="0" />
+      <Item value="posiblesrespuestas" priority="2" />
+      <Item value="RadioButton`0" priority="2" />
+      <Item value="respuestaDtos" priority="3" />
+      <Item value="Sendexamen`0" priority="0" />
+      <Item value="SendExamenService`0" priority="0" />
+      <Item value="ParamArrayAttribute`0" priority="0" />
+      <Item value="EventArgs`0" priority="7" />
+      <Item value="EvaluacionExamen`0" priority="0" />
+      <Item value="btTest" priority="0" />
+      <Item value="contestacionesControl" priority="0" />
+      <Item value="Grid`0" priority="0" />
+      <Item value="grid" priority="1" />
+      <Item value="textBlock" priority="1" />
+      <Item value="GetAllRespuestasCompletedEventArgs`0" priority="2" />
+      <Item value="PreguntaDto`0" priority="1" />
+      <Item value="_preguntas" priority="3" />
+      <Item value="ear" priority="0" />
+      <Item value="Preguntas" priority="4" />
+      <Item value="Enunciado" priority="1" />
+      <Item value="in" priority="2" />
+      <Item value="IndicePregunta" priority="0" />
+      <Item value="pregunta" priority="0" />
+      <Item value="OnLoadPreguntas`0" priority="0" />
+      <Item value="PuntosRespuesta" priority="1" />
+      <Item value="IsSelected" priority="0" />
+      <Item value="event" priority="1" />
+      <Item value="EventHandler`0" priority="2" />
+      <Item value="OnRespuestasLoadeded" priority="1" />
+      <Item value="Respuesta" priority="1" />
+      <Item value="Convert`0" priority="1" />
+      <Item value="es" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="RegistrarBtn" priority="0" />
+      <Item value="registrationData" priority="9" />
+      <Item value="NombreText" priority="2" />
+      <Item value="PasswordText" priority="1" />
+      <Item value="personaListBox" priority="7" />
+      <Item value="selectdPersona" priority="1" />
+      <Item value="MostrarDetalle`0" priority="0" />
+      <Item value="_personaDetalle" priority="6" />
+      <Item value="UserName" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="Afabilidad" priority="1" />
+      <Item value="AperturaCultura" priority="1" />
+      <Item value="AperturaExperiencia" priority="1" />
+      <Item value="AperturaMental" priority="1" />
+      <Item value="ControlEmociones" priority="1" />
+      <Item value="Cooperacion" priority="0" />
+      <Item value="Dinamismo" priority="2" />
+      <Item value="Distorsion" priority="1" />
+      <Item value="Dominancia" priority="2" />
+      <Item value="EstabilidadEmocional" priority="1" />
+      <Item value="Escrupolosidad" priority="1" />
+      <Item value="Perseverancia" priority="1" />
+      <Item value="Teson" priority="0" />
+      <Item value="EvaluacionBigFive`0" priority="8" />
+      <Item value="view" priority="4" />
+      <Item value="evaluacionBigFiveListBox" priority="1" />
+      <Item value="FrameworkElement`0" priority="0" />
+      <Item value="btn" priority="1" />
+      <Item value="evaluacionBigFive" priority="17" />
+      <Item value="Convierte`0" priority="0" />
+      <Item value="entity" priority="0" />
+      <Item value="Energia" priority="1" />
+      <Item value="WebContext`0" priority="3" />
+      <Item value="userName" priority="1" />
+      <Item value="examenWindows" priority="6" />
+      <Item value="userId" priority="0" />
+      <Item value="ExamenBFQWindow`0" priority="0" />
+      <Item value="Button`0" priority="1" />
+      <Item value="NombreUsuario" priority="1" />
+      <Item value="App`0" priority="1" />
+      <Item value="u" priority="0" />
+      <Item value="Institucion" priority="0" />
+      <Item value="StackPanel`0" priority="0" />
+      <Item value="TextBlock`0" priority="0" />
+      <Item value="userEmailText" priority="1" />
+      <Item value="StackPanelForm" priority="0" />
+      <Item value="PasswordBox`0" priority="1" />
+      <Item value="userPassText" priority="0" />
+      <Item value="Added" priority="0" />
+      <Item value="Colors`0" priority="1" />
+      <Item value="ToolTip`0" priority="0" />
+      <Item value="TextBox`0" priority="1" />
+      <Item value="ValidationErrorEventAction`0" priority="0" />
+      <Item value="ToolTipService`0" priority="0" />
+      <Item value="m" priority="3" />
+      <Item value="Browser" priority="0" />
+      <Item value="mail" priority="0" />
+      <Item value="username" priority="1" />
+      <Item value="AssociatedObject" priority="1" />
+      <Item value="AppDomain`0" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="IdUssuario" priority="0" />
+      <Item value="IAnsweredQuiz`0" priority="1" />
+      <Item value="Question" priority="0" />
+      <Item value="IQuestion`0" priority="0" />
+      <Item value="Statement" priority="2" />
+      <Item value="Response`0" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="numeroPregunta" priority="0" />
+      <Item value="respuestaSeleccionada" priority="0" />
+      <Item value="examenContestado" priority="4" />
+      <Item value="answeredQuiz" priority="2" />
+      <Item value="numeroNulos" priority="3" />
+      <Item value="setentaPorciento" priority="0" />
+      <Item value="numeroMinimo" priority="0" />
+      <Item value="proceso" priority="3" />
+      <Item value="contetacion" priority="1" />
+      <Item value="message" priority="0" />
+      <Item value="Nullable`0" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="viewModel" priority="7" />
+      <Item value="ExamenViewModel" priority="1" />
+      <Item value="_menssage" priority="1" />
+      <Item value="Mensage" priority="0" />
+      <Item value="user" priority="0" />
+      <Item value="AperturaCulturaPlantilla`0" priority="0" />
+      <Item value="AperturaExperiencia`0" priority="2" />
+      <Item value="AperturaExperienciaPlantilla`0" priority="1" />
+      <Item value="EscrupulosidadPlantilla`0" priority="0" />
+      <Item value="PerseveranciaPlantilla`0" priority="0" />
+      <Item value="CooperacionPlantilla`0" priority="0" />
+      <Item value="CordialidadPlantilla`0" priority="0" />
+      <Item value="DinamismoPlantilla`0" priority="0" />
+      <Item value="DominaciaPlanilla`0" priority="0" />
+      <Item value="Dinamismio`0" priority="3" />
+      <Item value="Dinamismio" priority="0" />
+      <Item value="Dominacia`0" priority="9" />
+      <Item value="Dominacia" priority="0" />
+      <Item value="ISubDimension`0" priority="6" />
+      <Item value="SubDimentios" priority="2" />
+      <Item value="_sub1" priority="0" />
+      <Item value="Energia`0" priority="3" />
+      <Item value="List&lt;ISubDimension&gt;" priority="1" />
+      <Item value="BigFive.Server.Core" priority="2" />
+      <Item value="BFQ" priority="2" />
+      <Item value="Process" priority="0" />
+      <Item value="ProcesaExamenFormWeb`0" priority="0" />
+      <Item value="EvaluacionBigFive" priority="0" />
+      <Item value="Dimensions" priority="1" />
+      <Item value="CalculaPuntajeDimension`0" priority="3" />
+      <Item value="dimencion" priority="6" />
+      <Item value="Dinamismo`0" priority="6" />
+      <Item value="Cooperacion`0" priority="1" />
+      <Item value="Cordialidad`0" priority="2" />
+      <Item value="Escrupulasidad`0" priority="2" />
+      <Item value="Perseverancia`0" priority="0" />
+      <Item value="ControlEmociones`0" priority="1" />
+      <Item value="ControlImpulsos`0" priority="1" />
+      <Item value="AperturaCultura`0" priority="1" />
+      <Item value="SubDimencion1" priority="4" />
+      <Item value="SubDimencion2" priority="4" />
+      <Item value="dimencion1" priority="0" />
+      <Item value="dimencion2" priority="0" />
+      <Item value="IDimension`0" priority="2" />
+      <Item value="Dimenciones" priority="1" />
+      <Item value="List&lt;IDimension&gt;" priority="0" />
+      <Item value="subDimension" priority="2" />
+      <Item value="CalculaPuntos`0" priority="0" />
+      <Item value="GlobalScore" priority="1" />
+      <Item value="puntos" priority="18" />
+      <Item value="Teson`0" priority="0" />
+      <Item value="dimension" priority="2" />
+      <Item value="calculador" priority="3" />
+      <Item value="CalculaPuntajeDimension" priority="1" />
+      <Item value="dinamismo" priority="6" />
+      <Item value="ProcesarPositivos`0" priority="1" />
+      <Item value="ProcesarNegativos`0" priority="0" />
+      <Item value="_subDimension" priority="0" />
+      <Item value="List&lt;IAnsweredQuiz&gt;" priority="0" />
+      <Item value="_calculador" priority="11" />
+      <Item value="_examenContestado" priority="10" />
+      <Item value="_evaluacion" priority="14" />
+      <Item value="dominacia" priority="1" />
+      <Item value="cordialiadad" priority="2" />
+      <Item value="cooperacion" priority="2" />
+      <Item value="escrupulosidad" priority="2" />
+      <Item value="perseverancia" priority="2" />
+      <Item value="controlImpulsos" priority="2" />
+      <Item value="controlEmocional" priority="1" />
+      <Item value="aperturaExperincia" priority="3" />
+      <Item value="aperturaCultura" priority="2" />
+      <Item value="DistorcionPlantilla`0" priority="0" />
+      <Item value="distorcion" priority="1" />
+      <Item value="calificacion" priority="14" />
+      <Item value="evaluador" priority="0" />
+      <Item value="AssertionException`0" priority="0" />
+      <Item value="ControlImpulsos" priority="0" />
+      <Item value="Cordialidad" priority="0" />
+      <Item value="PersisteEvaluacion`0" priority="0" />
+      <Item value="save" priority="1" />
+      <Item value="idExaminado" priority="0" />
+      <Item value="EvaluaExamenBfq`0" priority="0" />
+      <Item value="BigFiveQEntities`0" priority="1" />
+      <Item value="BigFiveQEntities" priority="0" />
+      <Item value="parameters" priority="1" />
+      <Item value="d" priority="0" />
+      <Item value="RespuestaDePlantilla" priority="0" />
+      <Item value="Number" priority="0" />
+      <Item value="ScoreType" priority="0" />
+      <Item value="TipoPuntaje`0" priority="0" />
+      <Item value="_repuesta" priority="0" />
+      <Item value="Respuestas" priority="0" />
+      <Item value="RespuestasLoaded" priority="1" />
+      <Item value="PreguntasLoaded" priority="1" />
+      <Item value="OnPregutasLoaded`0" priority="0" />
+      <Item value="LoadingProgress" priority="0" />
+      <Item value="Visibility" priority="0" />
+      <Item value="ExamenViewModel`0" priority="1" />
+      <Item value="model" priority="2" />
+      <Item value="Model" priority="0" />
+      <Item value="GetAllPreguntas`0" priority="0" />
+      <Item value="GetAllRespuestas`0" priority="0" />
+      <Item value="_examen" priority="1" />
+      <Item value="ExamenLoaded" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="RoutedEventArgs`0" priority="0" />
+      <Item value="evaluacionBigFiveDomainDataSource" priority="0" />
+      <Item value="response" priority="6" />
+      <Item value="Response" priority="0" />
+      <Item value="n" priority="0" />
+      <Item value="Test" priority="0" />
+      <Item value="CambiarNulos`0" priority="0" />
+      <Item value="examenCambiado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadKey`0" priority="0" />
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="UtcNow" priority="0" />
+      <Item value="Now" priority="6" />
+      <Item value="Today" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="15" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Indexer" priority="1" />
+      <Item value="Capacity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Entities.Evaluacion">
+      <Item value="Id" priority="0" />
+      <Item value="Resultados" priority="6" />
+      <Item value="NombreExamen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="First`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Entities.Resultado">
+      <Item value="Resultados" priority="0" />
+      <Item value="Evaluacion" priority="0" />
+      <Item value="Id" priority="1" />
+      <Item value="First`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Add`0" priority="6" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.IQueryOver`2">
+      <Item value="SingleOrDefault`1" priority="2" />
+      <Item value="Where`0" priority="0" />
+      <Item value="SelectList`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="QueryOver`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Entities.Persona">
+      <Item value="Nombres" priority="0" />
+      <Item value="Evaluaciones" priority="0" />
+      <Item value="NombreUsuario" priority="1" />
+      <Item value="EvaluacionesBigFive" priority="0" />
+      <Item value="Genero" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFive.Server.Core.Entities.EstadoEvaluacion">
+      <Item value="Asignado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Server.Service.Services.BigFiveQAdminContext">
+      <Item value="GetPersonasQuery`0" priority="1" />
+      <Item value="Load`0" priority="3" />
+      <Item value="Personas" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.LoadOperation">
+      <Item value="Completed" priority="1" />
+      <Item value="Entities" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Cast`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Add`0" priority="5" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Clear`0" priority="2" />
+      <Item value="Add`0" priority="8" />
+      <Item value="Count" priority="2" />
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Client.Admin.Data.PersonaDataService">
+      <Item value="GetPersonas`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Views.Home">
+      <Item value="InvalidateArrange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Server.Data.Models.Persona">
+      <Item value="Apellidos" priority="0" />
+      <Item value="Edad" priority="0" />
+      <Item value="Nombres" priority="0" />
+      <Item value="Telefono" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.ServiceReference.Service1Client">
+      <Item value="CloseCompleted" priority="0" />
+      <Item value="GetPersonasCompleted" priority="0" />
+      <Item value="GetPersonasAsync`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Server.Data.Models.BigFiveQEntities1">
+      <Item value="Personas" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Client.ViewModel.PersonasViewModel">
+      <Item value="LoadPersonas`0" priority="2" />
+      <Item value="Personas" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Server.Data.Models.BigFiveQAdminContext">
+      <Item value="GetPersonasQuery`0" priority="0" />
+      <Item value="Load`0" priority="0" />
+      <Item value="Personas" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SilverlightApplication1.MainPage">
+      <Item value="dataGrid1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGrid">
+      <Item value="ItemsSource" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Views.PersonasView">
+      <Item value="btnEdit" priority="0" />
+      <Item value="personaDataGrid" priority="0" />
+      <Item value="personaDomainDataSource" priority="0" />
+      <Item value="btnAdd" priority="0" />
+      <Item value="btnDelte" priority="0" />
+      <Item value="EmployeesGrid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Click" priority="9" />
+      <Item value="DataContext" priority="0" />
+      <Item value="IsEnabled" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Views.PersonaDetail">
+      <Item value="Persona" priority="9" />
+      <Item value="Show`0" priority="1" />
+      <Item value="DataSourse" priority="1" />
+      <Item value="_ds" priority="0" />
+      <Item value="_dataSource" priority="0" />
+      <Item value="DialogResult" priority="2" />
+      <Item value="ViewModel" priority="0" />
+      <Item value="Closed" priority="0" />
+      <Item value="DataContext" priority="1" />
+      <Item value="Registrar`0" priority="1" />
+      <Item value="BindingValidationError" priority="1" />
+      <Item value="OKButton" priority="1" />
+      <Item value="personaDataForm" priority="1" />
+      <Item value="LayoutRoot" priority="0" />
+      <Item value="StackPanelForm" priority="0" />
+      <Item value="Email" priority="1" />
+      <Item value="EmailTextL" priority="0" />
+      <Item value="EstadoMemberShip" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DomainDataSource">
+      <Item value="SubmitChanges`0" priority="4" />
+      <Item value="DataView" priority="2" />
+      <Item value="Data" priority="0" />
+      <Item value="DomainContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Models.Persona">
+      <Item value="Id" priority="9" />
+      <Item value="Nombres" priority="6" />
+      <Item value="ValidationErrors" priority="2" />
+      <Item value="Apellidos" priority="1" />
+      <Item value="Edad" priority="2" />
+      <Item value="Password" priority="1" />
+      <Item value="Telefono" priority="0" />
+      <Item value="Institucion" priority="1" />
+      <Item value="HasValidationErrors" priority="1" />
+      <Item value="NombreUsuario" priority="0" />
+      <Item value="EvaluacionBigFives" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DomainDataSourceView">
+      <Item value="Add`0" priority="1" />
+      <Item value="CanAdd" priority="0" />
+      <Item value="CanRemove" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Services.PersonaContext">
+      <Item value="GetPersonasQuery`0" priority="1" />
+      <Item value="Load`0" priority="0" />
+      <Item value="Personas" priority="5" />
+      <Item value="IsLoading" priority="0" />
+      <Item value="SubmitChanges`0" priority="1" />
+      <Item value="EntityContainer" priority="0" />
+      <Item value="PropertyChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.EntitySet`1">
+      <Item value="Clear`0" priority="1" />
+      <Item value="Add`0" priority="2" />
+      <Item value="Detach`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Services.PersonasDataService">
+      <Item value="GetCategories`0" priority="0" />
+      <Item value="GetPersonas`0" priority="0" />
+      <Item value="Save`0" priority="0" />
+      <Item value="Cargando" priority="0" />
+      <Item value="Agregar`0" priority="1" />
+      <Item value="Eliminar`0" priority="0" />
+      <Item value="Busy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.ViewModels.PersonasViewModel">
+      <Item value="LoadPersonas`0" priority="3" />
+      <Item value="SelectedPersona" priority="3" />
+      <Item value="Guardar`0" priority="0" />
+      <Item value="Personas" priority="1" />
+      <Item value="Agregar`0" priority="0" />
+      <Item value="Eliminar`0" priority="1" />
+      <Item value="ValidateObject`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Views.DelConfirmWindow">
+      <Item value="Mensage" priority="0" />
+      <Item value="Show`0" priority="0" />
+      <Item value="DialogResult" priority="0" />
+      <Item value="TxtNombreRegistro" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="4" />
+      <Item value="Tag" priority="2" />
+      <Item value="GotFocus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Services.EvaluacionContext">
+      <Item value="Evaluacions" priority="3" />
+      <Item value="GetEvaluacionByPersonaQuery`0" priority="0" />
+      <Item value="Load`0" priority="1" />
+      <Item value="SoloVerificaint`0" priority="0" />
+      <Item value="Personas" priority="0" />
+      <Item value="SubmitChanges`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Services.EvaluacionService">
+      <Item value="ObjectContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Models.BigFiveQEntities1">
+      <Item value="Evaluacions" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.LoadOperation`1">
+      <Item value="Completed" priority="0" />
+      <Item value="Entities" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Services.EvaluacionesDataServices">
+      <Item value="GetEvaluacionesByPersonas`0" priority="0" />
+      <Item value="Crear`0" priority="0" />
+      <Item value="Eliminar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.ViewModels.EvaluacionesViewModel">
+      <Item value="LoadData`0" priority="0" />
+      <Item value="LoadEvaluacionByCategory`0" priority="0" />
+      <Item value="SelectedPersona" priority="0" />
+      <Item value="Crear`0" priority="0" />
+      <Item value="Evaluaciones" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Views.Evaluaciones">
+      <Item value="personaListBox" priority="0" />
+      <Item value="btnSave" priority="0" />
+      <Item value="btnShowResults" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="SelectedItems" priority="0" />
+      <Item value="SelectedItem" priority="5" />
+      <Item value="ItemsSource" priority="1" />
+      <Item value="Items" priority="0" />
+      <Item value="GetItemsAndContainers`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Models.Evaluacion">
+      <Item value="Estado" priority="1" />
+      <Item value="FechaAsignacion" priority="0" />
+      <Item value="FechaRealizacion" priority="0" />
+      <Item value="NombreExamen" priority="0" />
+      <Item value="Persona" priority="0" />
+      <Item value="NumeroEvaluacion" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFiveQAdmin.ViewModels.ExamenEstado">
+      <Item value="Asignado" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="60" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="16" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.SubmitOperation">
+      <Item value="Cancel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Models.BigFiveQEntities2">
+      <Item value="Personas" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.PreguntaControl">
+      <Item value="enunciadoTxt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.PreguntaControl">
+      <Item value="m_radioButtonList" priority="17" />
+      <Item value="RadioButtonListItems" priority="3" />
+      <Item value="Respuestas" priority="2" />
+      <Item value="CargarRespuestas`0" priority="1" />
+      <Item value="DataContext" priority="0" />
+      <Item value="r5" priority="2" />
+      <Item value="r1" priority="2" />
+      <Item value="enunciadoTxt" priority="2" />
+      <Item value="r3" priority="0" />
+      <Item value="r4" priority="0" />
+      <Item value="Index" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Respuesta.RadioButtonList">
+      <Item value="m_itemsControl" priority="7" />
+      <Item value="DataContext" priority="5" />
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.ExamenBfqServiceClient">
+      <Item value="GetAllRespuestasCompleted" priority="2" />
+      <Item value="GetAllRespuestasAsync`0" priority="3" />
+      <Item value="CommitExamenCompleted" priority="2" />
+      <Item value="CommitExamenAsync`0" priority="3" />
+      <Item value="GetAllPreguntasCompleted" priority="2" />
+      <Item value="GetAllPreguntasAsync`0" priority="1" />
+      <Item value="GetExamenCompleted" priority="0" />
+      <Item value="GetExamenAsync`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.GetAllRespuestasCompletedEventArgs">
+      <Item value="Cancelled" priority="0" />
+      <Item value="Result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.Respuesta">
+      <Item value="Statement" priority="1" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemsControl">
+      <Item value="ItemsSource" priority="4" />
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Respuesta.SelectableItem">
+      <Item value="IsSelected" priority="1" />
+      <Item value="Text" priority="2" />
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Wizard">
+      <Item value="btNext" priority="1" />
+      <Item value="Pages" priority="1" />
+      <Item value="IdUser" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.PreguntaControlViewModel">
+      <Item value="RadioButtonListItems" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.BigFiveQControl">
+      <Item value="ctrlWizard" priority="0" />
+      <Item value="IdUssuario" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RadioButton">
+      <Item value="Content" priority="0" />
+      <Item value="GroupName" priority="0" />
+      <Item value="IsChecked" priority="2" />
+      <Item value="Tag" priority="2" />
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Views.ReporteWindow">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.LoginUI.LoginForm">
+      <Item value="SetParentWindow`0" priority="1" />
+      <Item value="registerNow" priority="0" />
+      <Item value="Parent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.LoginUI.LoginRegistrationWindow">
+      <Item value="NavigateToLogin`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.CommitExamenCompletedEventArgs">
+      <Item value="Result" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Services.RespuestasDto">
+      <Item value="PreguntaNumero" priority="1" />
+      <Item value="RespuestaSeleccionada" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFiveQ.Controls.Services.SendExamenService">
+      <Item value="SendExamen`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UserControl">
+      <Item value="Content" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.UIElement">
+      <Item value="GetType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.Pregunta">
+      <Item value="Index" priority="2" />
+      <Item value="Statement" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
+      <Item value="IsChecked" priority="0" />
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.EvaluacionExamen">
+      <Item value="GetContestaciones`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
+      <Item value="FindName`0" priority="1" />
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="4" />
+      <Item value="ToDouble`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Services.RespuestaDto">
+      <Item value="PuntosRespuesta" priority="3" />
+      <Item value="Enunciado" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.GetAllPreguntasCompletedEventArgs">
+      <Item value="Result" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EventArgs">
+      <Item value="Empty" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Services.ExamenService">
+      <Item value="Preguntas" priority="0" />
+      <Item value="Respuestas" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Services.PreguntaDto">
+      <Item value="Enunciado" priority="0" />
+      <Item value="IndicePregunta" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.Services.ContestacionDto">
+      <Item value="NumeroPregunta" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.RegistrationData">
+      <Item value="UserName" priority="0" />
+      <Item value="Password" priority="1" />
+      <Item value="PasswordConfirmation" priority="0" />
+      <Item value="Email" priority="0" />
+      <Item value="FriendlyName" priority="0" />
+      <Item value="Question" priority="0" />
+      <Item value="Answer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.PasswordBox">
+      <Item value="Password" priority="3" />
+      <Item value="Focus`0" priority="0" />
+      <Item value="PasswordChanged" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="9" />
+      <Item value="TextChanged" priority="0" />
+      <Item value="IsReadOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.UserRegistrationContext">
+      <Item value="CreateUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Controls.BusyIndicator">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.EntityContainer">
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="EntitySets" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Views.PersonasPage">
+      <Item value="personaListBox" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.DomainContext">
+      <Item value="EntityContainer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Models.EvaluacionBigFive">
+      <Item value="FechaRealizacion" priority="4" />
+      <Item value="Energia" priority="0" />
+      <Item value="Afabilidad" priority="0" />
+      <Item value="Teson" priority="0" />
+      <Item value="EstabilidadEmocional" priority="0" />
+      <Item value="AperturaMental" priority="0" />
+      <Item value="Distorsion" priority="0" />
+      <Item value="Dinamismo" priority="0" />
+      <Item value="Dominancia" priority="0" />
+      <Item value="Cooperacion" priority="0" />
+      <Item value="Cordialidad" priority="0" />
+      <Item value="Escrupolosidad" priority="0" />
+      <Item value="Perseverancia" priority="0" />
+      <Item value="ControlEmociones" priority="0" />
+      <Item value="ControlImpulsos" priority="0" />
+      <Item value="AperturaCultura" priority="0" />
+      <Item value="AperturaExperiencia" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="5" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFiveQAdmin.WebContext">
+      <Item value="Current" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.WebContext">
+      <Item value="User" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.User">
+      <Item value="Name" priority="1" />
+      <Item value="GetOriginal`0" priority="0" />
+      <Item value="GetIdentity`0" priority="0" />
+      <Item value="EntityState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBFQWindow">
+      <Item value="NombreUsuario" priority="2" />
+      <Item value="IdUsurio" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Examen" priority="1" />
+      <Item value="IdUsuario" priority="0" />
+      <Item value="InjectUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.DomainServices.Client.Entity">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFiveQAdmin.App">
+      <Item value="Current" priority="0" />
+      <Item value="Main`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataForm">
+      <Item value="DataContext" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="FindName`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ValidationErrorEventArgs">
+      <Item value="Action" priority="1" />
+      <Item value="OriginalSource" priority="2" />
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Control">
+      <Item value="Background" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Yellow" priority="0" />
+      <Item value="White" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.ToolTipService">
+      <Item value="SetToolTip`0" priority="1" />
+      <Item value="ToolTipProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ValidationError">
+      <Item value="Exception" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.ValidationErrorEventAction">
+      <Item value="Removed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.PasswordBox">
+      <Item value="PasswordProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="MainWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Services.Contestacion">
+      <Item value="NumeroPregunta" priority="1" />
+      <Item value="RepuestaSeleccionada" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.QA.IAnsweredQuiz">
+      <Item value="Response" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.QA.IResponse">
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Floor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Process.ProcesaExamenFormWeb">
+      <Item value="ValidadNuemroContestaciones`0" priority="0" />
+      <Item value="ProcesarExamen`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFiveQ.Controls.Model.ExamenModel">
+      <Item value="SendExamen`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ViewModels.ExamenViewModel">
+      <Item value="CommitExamen`0" priority="0" />
+      <Item value="Menssage" priority="0" />
+      <Item value="Mensage" priority="2" />
+      <Item value="ExamenSent" priority="0" />
+      <Item value="SendExamen`0" priority="0" />
+      <Item value="_respuestas" priority="0" />
+      <Item value="RespuestasLoaded" priority="0" />
+      <Item value="CargaRespuestas`0" priority="0" />
+      <Item value="Respuestas" priority="0" />
+      <Item value="PreguntasLoaded" priority="1" />
+      <Item value="CargarPreguntas`0" priority="0" />
+      <Item value="Preguntas" priority="0" />
+      <Item value="ExamenLoaded" priority="0" />
+      <Item value="CargarExamen`0" priority="0" />
+      <Item value="Examen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFive.Server.Core.Enums">
+      <Item value="Negative" priority="11" />
+      <Item value="Positive" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Energia">
+      <Item value="SubDimentios" priority="0" />
+      <Item value="Score" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Entities.EvaluacionBigFive">
+      <Item value="Dinamismo" priority="1" />
+      <Item value="Dominancia" priority="1" />
+      <Item value="Energia" priority="1" />
+      <Item value="Cordialidad" priority="0" />
+      <Item value="Cooperacion" priority="0" />
+      <Item value="Teson" priority="1" />
+      <Item value="Perseverancia" priority="0" />
+      <Item value="Escrupolosidad" priority="0" />
+      <Item value="ControlEmociones" priority="0" />
+      <Item value="ControlImpulsos" priority="0" />
+      <Item value="EstabilidadEmocional" priority="0" />
+      <Item value="AperturaCultura" priority="0" />
+      <Item value="AperturaExperiencia" priority="0" />
+      <Item value="AperturaMental" priority="0" />
+      <Item value="Distorsion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Dinamismo">
+      <Item value="GlobalScore" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.ISubDimension">
+      <Item value="GlobalScore" priority="7" />
+      <Item value="NegativeScore" priority="1" />
+      <Item value="PositiveScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.IDimension">
+      <Item value="SubDimencion1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Process.CalculaPuntajeDimension">
+      <Item value="ProcesarNegativos`0" priority="0" />
+      <Item value="Procesar`0" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.ControlEmociones">
+      <Item value="GlobalScore" priority="2" />
+      <Item value="NegativeScore" priority="0" />
+      <Item value="PlantillaCorreccion" priority="0" />
+      <Item value="PositiveScore" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Dominacia">
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Cordialidad">
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Cooperacion">
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Perseverancia">
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Escrupulasidad">
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.ControlImpulsos">
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.AperturaCultura">
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.AperturaExperiencia">
+      <Item value="GlobalScore" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.BFQ.Dimensions.Distorsion">
+      <Item value="GlobalScore" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Common.PuntajeBigFive">
+      <Item value="ControlEmociones" priority="1" />
+      <Item value="ControlImpulsos" priority="1" />
+      <Item value="EstabilidadEmocional" priority="1" />
+      <Item value="Dinamismo" priority="2" />
+      <Item value="Dominancia" priority="1" />
+      <Item value="Energia" priority="1" />
+      <Item value="Afabilidad" priority="2" />
+      <Item value="AperturaCultura" priority="1" />
+      <Item value="AperturaExperiencia" priority="1" />
+      <Item value="AperturaMental" priority="1" />
+      <Item value="Cooperacion" priority="1" />
+      <Item value="Cordialidad" priority="1" />
+      <Item value="Escrupolosidad" priority="1" />
+      <Item value="Perseverancia" priority="1" />
+      <Item value="Teson" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFive.Server.Core.Common.TipoPuntaje">
+      <Item value="Positive" priority="0" />
+      <Item value="Negative" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Process.EvaluaExamenBfq">
+      <Item value="Calcular`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Data.PersisteEvaluacion">
+      <Item value="Persisteri`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.DataClasses.EntityCollection`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Models.PersisteEvaluacion">
+      <Item value="Persisteri`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.Models.BigFiveQEntities">
+      <Item value="Personas" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectSet`1">
+      <Item value="Where`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQAdmin.Web.PersitensiaNh.PersisteEvaluacion">
+      <Item value="Persisteri`0" priority="0" />
+      <Item value="GetGeneroPersona`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqUi.Wizard">
+      <Item value="btPrevious" priority="0" />
+      <Item value="btTest" priority="0" />
+      <Item value="btNext" priority="0" />
+      <Item value="LayoutRoot" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="Collapsed" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.GetExamenCompletedEventArgs">
+      <Item value="Result" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFiveQ.Controls.ExamenBfqService.Examen">
+      <Item value="Preguntas" priority="0" />
+      <Item value="Respuestas" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedQueryable`1">
+      <Item value="OrderByDescending`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Common.IResponse">
+      <Item value="Value" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Common.IAnsweredQuiz">
+      <Item value="Response" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Common.AnsweredQuiz">
+      <Item value="Response" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BigFive.Server.Core.Process.ProcesaExamenFormWeb">
+      <Item value="CambiarNulos`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="virtual" priority="31" />
+      <Item value="ErrorMessage" priority="31" />
+      <Item value="exception" priority="32" />
+      <Item value="NullReferenceException`0" priority="31" />
+      <Item value="null" priority="95" />
+      <Item value="return" priority="191" />
+      <Item value="message" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="msg" priority="63" />
+      <Item value="OperationBase`0" priority="31" />
+      <Item value="var" priority="95" />
+      <Item value="public" priority="285" />
+      <Item value="EstadoMemberShip" priority="63" />
+      <Item value="try" priority="31" />
+      <Item value="e" priority="63" />
+      <Item value="MessageBox`0" priority="31" />
+      <Item value="Persona`0" priority="31" />
+      <Item value="genero" priority="65" />
+      <Item value="if" priority="63" />
+      <Item value="person" priority="63" />
+      <Item value="Genero`0" priority="127" />
+      <Item value="InsufficientExecutionStackException`0" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="idExaminado" priority="31" />
+      <Item value="using" priority="30" />
+      <Item value="save" priority="63" />
+      <Item value="userName" priority="31" />
+      <Item value="int" priority="127" />
+      <Item value="List" priority="31" />
+      <Item value="Valores`0" priority="63" />
+      <Item value="new" priority="607" />
+      <Item value="Valores" priority="28" />
+      <Item value="Percentil" priority="831" />
+      <Item value="PuntaacionDirecta" priority="32" />
+      <Item value="PuntuacionT" priority="989" />
+      <Item value="class" priority="30" />
+      <Item value="PuntuacionDirecta" priority="32" />
+      <Item value="PuntuacionDirecta`0" priority="31" />
+      <Item value="Valor" priority="668" />
+      <Item value="PuntuacionDirectaHasta" priority="824" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BigFive.Server.Core.Entities.Genero">
+      <Item value="Femenino" priority="26" />
+      <Item value="Masculino" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculatePointsTest" type="NUnitTestFixtureElement" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest" type="NUnitTestFixtureElement" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalificacionExamenBfqTest" type="NUnitTestFixtureElement" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CrearDataBaseTest" type="NUnitTestFixtureElement" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.PersisteEvaluacionTest" type="NUnitTestFixtureElement" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.ProcesaExamenFromWebTest" type="NUnitTestFixtureElement" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest.CalculaDimencionEstabilidadEmocional" ParentId="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest" MethodName="CalculaDimencionEstabilidadEmocional" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest.CalculoDemencionCe" ParentId="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest" MethodName="CalculoDemencionCe" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest.CalculoDiemncionCi" ParentId="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalculoPuntajesDimensionesTest" MethodName="CalculoDiemncionCi" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CrearDataBaseTest.CrearSchema" ParentId="BigFive.Server.Core.Test.CrearDataBaseTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CrearDataBaseTest" MethodName="CrearSchema" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalificacionExamenBfqTest.EvaluaExamenDemo" ParentId="BigFive.Server.Core.Test.CalificacionExamenBfqTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalificacionExamenBfqTest" MethodName="EvaluaExamenDemo" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.PersisteEvaluacionTest.GuardaEvalacion" ParentId="BigFive.Server.Core.Test.PersisteEvaluacionTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.PersisteEvaluacionTest" MethodName="GuardaEvalacion" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.ProcesaExamenFromWebTest.RespuestaConZeroOrNulasSet3" ParentId="BigFive.Server.Core.Test.ProcesaExamenFromWebTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.ProcesaExamenFromWebTest" MethodName="RespuestaConZeroOrNulasSet3" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculatePointsTest.SumaPuntosSegunRespuesta" ParentId="BigFive.Server.Core.Test.CalculatePointsTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalculatePointsTest" MethodName="SumaPuntosSegunRespuesta" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculatePointsTest.TomaNumerosdPreguntasSumaranPutajeNegativo" ParentId="BigFive.Server.Core.Test.CalculatePointsTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalculatePointsTest" MethodName="TomaNumerosdPreguntasSumaranPutajeNegativo" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculatePointsTest.TomaNumerosdPreguntasSumaranPutajePositivo" ParentId="BigFive.Server.Core.Test.CalculatePointsTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalculatePointsTest" MethodName="TomaNumerosdPreguntasSumaranPutajePositivo" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+        <UnitTestElement Provider="nUnit" Id="BigFive.Server.Core.Test.CalculatePointsTest.TomaRespuestasQueEstanEnPlatilla" ParentId="BigFive.Server.Core.Test.CalculatePointsTest" type="NUnitTestElement" TypeName="BigFive.Server.Core.Test.CalculatePointsTest" MethodName="TomaRespuestasQueEstanEnPlatilla" Project="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>

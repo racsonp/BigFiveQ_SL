@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="DD50CF20-468E-453E-97B9-124246A75626" ModuleId="BigFive.Server.Core" />
+  <Module PersistentId="5A5A115B-0E7D-4C59-B02F-ADCBEA0DF2FD" ModuleId="BigFiveQAdmin" />
+  <Module PersistentId="B050A594-E6F5-47F2-BA02-53973C378032" ModuleId="BigFiveQAdmin.Web" />
+  <Module PersistentId="82BD3EE6-56E0-4358-B692-55FDB7E0DC79" ModuleId="BigFive.Server.Core.Test" />
+  <Module PersistentId="C5F73A9C-C7FD-48A3-8A03-BDFF7887CC90" ModuleId="BigFiveQ.Controls" />
+  <Module PersistentId="492225CF-C5DC-4CE9-870C-E69E8BAFDC23" ModuleId="ReporteBigFiveQ" />
+  <Module PersistentId="D9D13AB0-DF48-48FB-80D7-8F7DB62DFD65" ModuleId="System.ServiceModel.DomainServices.Server" />
+  <Module PersistentId="E5CA9E7C-B738-41C9-865B-14F843FA24B1" ModuleId="BigFiveQ.ExamenUi" />
+</Modules>

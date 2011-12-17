@@ -1,0 +1,1 @@
+C:\Program Files\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.Windows.Controls.DomainServices.dll

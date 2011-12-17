@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="BigFive.Server.Core"
+namespace="BigFive.Server.Core.Entities">
+ <class name="EvaluacionBigFive">
+    <id name="Id">
+      <generator class="identity" />
+    </id>
+    <property name="NombreExamen" not-null="true" />       
+   <property name="FechaRealizacion" type="DateTime" />
+   <property name="Energia" />
+   <property name="Teson" />
+   <property name="Afabilidad" />
+   <property name="EstabilidadEmocional" />
+   <property name="AperturaMental" />
+
+   <property name="Distorsion" />
+
+   <property name="Dinamismo" />
+   <property name="Dominancia" />
+   <property name="Cooperacion" />
+    <property name="Cordialidad" />
+   <property name="Escrupolosidad" />
+   <property name="Perseverancia" />
+   <property name="ControlEmociones" />
+   <property name="ControlImpulsos" />
+   <property name="AperturaCultura" />
+   <property name="AperturaExperiencia" />   
+
+  </class>
+</hibernate-mapping>
+

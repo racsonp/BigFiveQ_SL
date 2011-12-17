@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="BigFive.Server.Core"
+namespace="BigFive.Server.Core.Entities">
+  <class name="Persona">
+    <id name="Id">
+      <generator class="identity" />
+    </id>
+    <natural-id mutable="true">
+      <property name="NombreUsuario" not-null="true"
+      type="String" />
+    </natural-id>
+    <property name="Nombres" not-null="true" />
+    <property name="Apellidos" not-null="true" />    
+    <property name="Edad"  />
+    <property name="Telefono"  />
+    <property name="Institucion" />
+    <property name="Email" not-null="true" />
+    <property name="Password" not-null="true" />
+    <property name="Genero" not-null="true" />
+    <list name="EvaluacionesBigFive" cascade="all-delete-orphan">
+      <key column="IdPersona" />
+      <index column="NumeroEvaluacion" />
+      <one-to-many class="EvaluacionBigFive"/>
+    </list>
+  </class>
+</hibernate-mapping>
+

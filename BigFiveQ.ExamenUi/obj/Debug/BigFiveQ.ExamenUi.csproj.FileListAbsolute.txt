@@ -1,0 +1,7 @@
+E:\Projects\BigFiveQ\scr\BigFiveQ.ExamenUi\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\BigFiveQ\scr\BigFiveQ.ExamenUi\obj\Debug\App.g.i.cs
+E:\Projects\BigFiveQ\scr\BigFiveQ.ExamenUi\obj\Debug\Views\ErrorWindow.g.i.cs
+E:\Projects\BigFiveQ\scr\BigFiveQ.ExamenUi\obj\Debug\Views\About.g.i.cs
+E:\Projects\BigFiveQ\scr\BigFiveQ.ExamenUi\obj\Debug\Views\Home.g.i.cs
+E:\Projects\BigFiveQ\scr\BigFiveQ.ExamenUi\obj\Debug\MainPage.g.i.cs
+E:\Projects\BigFiveQ\scr\BigFiveQ.ExamenUi\obj\Debug\BigFiveQ.ExamenUi.g.resources

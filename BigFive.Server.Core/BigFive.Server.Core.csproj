@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD50CF20-468E-453E-97B9-124246A75626}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BigFive.Server.Core</RootNamespace>
+    <AssemblyName>BigFive.Server.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Baremos\IBaremo.cs" />
+    <Compile Include="Baremos\MujeresA.cs" />
+    <Compile Include="Baremos\MujeresAc.cs" />
+    <Compile Include="Baremos\MujeresAe.cs" />
+    <Compile Include="Baremos\MujeresAM.cs" />
+    <Compile Include="Baremos\MujeresCe.cs" />
+    <Compile Include="Baremos\MujeresCi.cs" />
+    <Compile Include="Baremos\MujeresCo.cs" />
+    <Compile Include="Baremos\MujeresCp.cs" />
+    <Compile Include="Baremos\MujeresD.cs" />
+    <Compile Include="Baremos\MujeresDi.cs" />
+    <Compile Include="Baremos\MujeresDo.cs" />
+    <Compile Include="Baremos\MujeresE.cs" />
+    <Compile Include="Baremos\MujeresEE.cs" />
+    <Compile Include="Baremos\MujeresEs.cs" />
+    <Compile Include="Baremos\MujeresPe.cs" />
+    <Compile Include="Baremos\MujeresT.cs" />
+    <Compile Include="Baremos\Valor.cs" />
+    <Compile Include="Baremos\VaronesA.cs" />
+    <Compile Include="Baremos\VaronesAc.cs" />
+    <Compile Include="Baremos\VaronesAe.cs" />
+    <Compile Include="Baremos\VaronesAM.cs" />
+    <Compile Include="Baremos\VaronesCe.cs" />
+    <Compile Include="Baremos\VaronesCi.cs" />
+    <Compile Include="Baremos\VaronesCo.cs" />
+    <Compile Include="Baremos\VaronesCp.cs" />
+    <Compile Include="Baremos\VaronesD.cs" />
+    <Compile Include="Baremos\VaronesDi.cs" />
+    <Compile Include="Baremos\VaronesDo.cs" />
+    <Compile Include="Baremos\VaronesE.cs" />
+    <Compile Include="Baremos\VaronesEE.cs" />
+    <Compile Include="Baremos\VaronesEs.cs" />
+    <Compile Include="Baremos\VaronesPe.cs" />
+    <Compile Include="Baremos\VaronesT.cs" />
+    <Compile Include="Common\AnsweredQuiz.cs" />
+    <Compile Include="Common\IAnsweredQuiz.cs" />
+    <Compile Include="Common\IQuestion.cs" />
+    <Compile Include="Common\IResponse.cs" />
+    <Compile Include="Common\PuntajeBigFive.cs" />
+    <Compile Include="Common\Question.cs" />
+    <Compile Include="Common\Response.cs" />
+    <Compile Include="Common\TipoPuntaje.cs" />
+    <Compile Include="Data\ExamenBuilder.cs" />
+    <Compile Include="Data\PreguntaRespuesta\IQuestionRepository.cs" />
+    <Compile Include="Data\PreguntaRespuesta\IResponseRepository.cs" />
+    <Compile Include="Data\PreguntaRespuesta\QuestionDataService.cs" />
+    <Compile Include="Data\PreguntaRespuesta\ResponseDataService.cs" />
+    <Compile Include="Dimensiones\AperturaCultura.cs" />
+    <Compile Include="Dimensiones\AperturaExperiencia.cs" />
+    <Compile Include="Dimensiones\ControlEmociones.cs" />
+    <Compile Include="Dimensiones\ControlImpulsos.cs" />
+    <Compile Include="Dimensiones\Cooperacion.cs" />
+    <Compile Include="Dimensiones\Cordialidad.cs" />
+    <Compile Include="Dimensiones\Dinamismo.cs" />
+    <Compile Include="Dimensiones\Distorsion.cs" />
+    <Compile Include="Dimensiones\Dominacia.cs" />
+    <Compile Include="Dimensiones\Escrupulasidad.cs" />
+    <Compile Include="Dimensiones\ISubDimension.cs" />
+    <Compile Include="Dimensiones\Perseverancia.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\AperturaCulturaPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\AperturaExperienciaPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\ControlEmocionalPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\ControlImpulsosPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\CooperacionPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\CordialidadPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\DinamismoPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\DistorcionPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\DominaciaPlanilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\EscrupulosidadPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\IPlantillaCorreccion.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\IRespuestaDePlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\PerseveranciaPlantilla.cs" />
+    <Compile Include="Dimensiones\PlantillaDeCorreccion\RespuestaDePlantilla.cs" />
+    <Compile Include="Entities\Entity.cs" />
+    <Compile Include="Entities\EvaluacionBigFive.cs" />
+    <Compile Include="Entities\Genero.cs" />
+    <Compile Include="Entities\Persona.cs" />
+    <Compile Include="ProcesaExamen.cs" />
+    <Compile Include="Process\CalculaPuntajeDimension.cs" />
+    <Compile Include="Process\EvaluaExamenBfq.cs" />
+    <Compile Include="Process\ProcesarPuntos.cs" />
+    <Compile Include="Process\TransformacionPuntaje.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Data\PersonaRepositoryNh.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Entities\Persona.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Entities\EvaluacionBigFive.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

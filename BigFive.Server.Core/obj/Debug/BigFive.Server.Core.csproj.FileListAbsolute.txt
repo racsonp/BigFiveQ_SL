@@ -1,0 +1,49 @@
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.dll
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.pdb
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.dll
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Antlr3.Runtime.dll
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.pdb
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.xml
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.pdb
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.dll
+C:\Users\nOscar\documents\visual studio 2010\Projects\BigFiveQ\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.pdb
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.dll
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.pdb
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.dll
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.dll
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\Antlr3.Runtime.dll
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\Remotion.Data.Linq.dll
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.pdb
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.xml
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.pdb
+E:\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.xml
+E:\BigFiveQ\BigFive.Server.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\BigFiveQ\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.dll
+E:\BigFiveQ\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.pdb
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.dll
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.pdb
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.dll
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.dll
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Antlr3.Runtime.dll
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Remotion.Data.Linq.dll
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.pdb
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\NHibernate.xml
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.pdb
+E:\Projects\BigFiveQ\BigFive.Server.Core\bin\Debug\Iesi.Collections.xml
+E:\Projects\BigFiveQ\BigFive.Server.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\BigFiveQ\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.dll
+E:\Projects\BigFiveQ\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.pdb
+E:\Projects\BigFiveQ\scr\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.dll
+E:\Projects\BigFiveQ\scr\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.pdb
+E:\Projects\BigFiveQ\scr\BigFive.Server.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\BigFiveQ\scr\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.dll
+E:\Projects\BigFiveQ\scr\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.pdb
+E:\Code\BigFiveQ\scr\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.dll
+E:\Code\BigFiveQ\scr\BigFive.Server.Core\bin\Debug\BigFive.Server.Core.pdb
+E:\Code\BigFiveQ\scr\BigFive.Server.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\BigFiveQ\scr\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.dll
+E:\Code\BigFiveQ\scr\BigFive.Server.Core\obj\Debug\BigFive.Server.Core.pdb

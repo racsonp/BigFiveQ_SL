@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="BigFiveQ.Controls.ExamenBfqUi.WelcomeControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="250"
+             d:DesignWidth="250" Width="535" Height="425">
+    
+    <Grid x:Name="LayoutRoot" Background="White">
+    	<StackPanel Height="450" Width="500" Orientation="Horizontal">
+    		<StackPanel>
+    			<Image Height="211" Width="169" Source="note-256.png"/>
+    		</StackPanel>
+    		<StackPanel Margin="0">
+    		  	
+		
+    			<TextBlock TextWrapping="Wrap" TextAlignment="Center" FontSize="16" Width="266"  ><Run Text="A continuación encontrara una serie de frases sobre formas de pensar, sentir o actuar, para que las vaya leyendo atentamente y marque la respuesta que describa mejor su forma habitual de pensar, sentir o actuar."/></TextBlock>
+			
+    			<TextBlock TextWrapping="Wrap" TextAlignment="Center" FontSize="21.333" Width="218" Height="122" Margin="0,5,0,0"  ><Run Text="NO EXISTEN RESPUESTAS CORRECTAS O INCORRECTAS"/></TextBlock>
+			
+    			<TextBlock TextWrapping="Wrap" TextAlignment="Center" Width="200" Margin="0,10,0,0"  ><Run Text="clic en Siguiente para iniciar"/></TextBlock>
+    		</StackPanel>
+    	</StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="BigFiveQ.Controls.BigFiveQControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:my="clr-namespace:BigFiveQ.Controls" xmlns:Wizard="clr-namespace:BigFiveQ.Controls.ExamenBfqUi.Wizard" xmlns:ExamenBfqUi="clr-namespace:BigFiveQ.Controls.ExamenBfqUi" d:DesignHeight="518"
+             d:DesignWidth="660"
+             mc:Ignorable="d">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <ExamenBfqUi:Wizard x:Name="ctrlWizard" Title="Examen BF">
+            <ExamenBfqUi:Wizard.Pages>
+                <ExamenBfqUi:WelcomeControl x:Name="Get" Margin="0" />
+            </ExamenBfqUi:Wizard.Pages>
+        </ExamenBfqUi:Wizard>
+        <Grid x:Name="LoadingProgress"
+		
+              Background="#CCFFFFFF"
+              Visibility="Collapsed">
+            <ProgressBar Width="250"
+                         Height="25"
+                         IsIndeterminate="True" >
+						 
+            </ProgressBar>
+			
+            
+        </Grid>
+    </Grid>
+</UserControl>
