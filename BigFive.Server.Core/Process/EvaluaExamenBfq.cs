@@ -16,6 +16,7 @@ namespace BigFive.Server.Core.Process
             var evaluacion = new PuntajeBigFive();
 
             _calculador = new CalculaPuntajeDimension();
+            var transformaPuntos = new TransformacionPuntaje();
 
             //ENERGIA
             var dinamismo = new Dinamismo();
@@ -24,14 +25,14 @@ namespace BigFive.Server.Core.Process
             _calculador.Procesar(examenContestado, dinamismo);
             _calculador.Procesar(examenContestado, dominacia);
 
-            // Converi Puntuacion Directa a puntuacion Tranforamda
-             //dinamismo.GlobalScore;
-            //dominacia.GlobalScore;
-
             evaluacion.Dinamismo = dinamismo.GlobalScore;
             evaluacion.Dominancia = dominacia.GlobalScore;
             evaluacion.Energia = dominacia.GlobalScore + dinamismo.GlobalScore;
-
+            evaluacion.DinamismoT = transformaPuntos.Dinamismo(dinamismo.GlobalScore, genero);
+            evaluacion.DominanciaT = transformaPuntos.Dominacia(dominacia.GlobalScore, genero);
+            evaluacion.EnergiaT = transformaPuntos.Energia((dominacia.GlobalScore + dinamismo.GlobalScore), genero);
+            
+            
             //AFABILIDAD
             var cooperacion = new Cooperacion();
             var cordialiadad = new Cordialidad();
@@ -41,6 +42,9 @@ namespace BigFive.Server.Core.Process
             evaluacion.Cordialidad = cordialiadad.GlobalScore;
             evaluacion.Cooperacion = cooperacion.GlobalScore;
             evaluacion.Afabilidad = cordialiadad.GlobalScore + cooperacion.GlobalScore;
+            evaluacion.CordialidadT = transformaPuntos.Cordialidad(cordialiadad.GlobalScore, genero);
+            evaluacion.CooperacionT = transformaPuntos.Cooperacion(cooperacion.GlobalScore, genero);
+            evaluacion.AfabilidadT = transformaPuntos.Afabilidad((cordialiadad.GlobalScore + cooperacion.GlobalScore), genero);
 
             //TESON
             var escrupulosidad = new Escrupulasidad();
@@ -51,6 +55,10 @@ namespace BigFive.Server.Core.Process
             evaluacion.Perseverancia = perseverancia.GlobalScore;
             evaluacion.Escrupolosidad = escrupulosidad.GlobalScore;
             evaluacion.Teson = perseverancia.GlobalScore + escrupulosidad.GlobalScore;
+
+            evaluacion.PerseveranciaT = transformaPuntos.Perseverncia(perseverancia.GlobalScore, genero);
+            evaluacion.EscrupolosidadT = transformaPuntos.Escrupulosidad(escrupulosidad.GlobalScore, genero);
+            evaluacion.TesonT = transformaPuntos.Teson((perseverancia.GlobalScore + escrupulosidad.GlobalScore), genero);
 
 
             //Escatabilidad emocional
@@ -63,6 +71,11 @@ namespace BigFive.Server.Core.Process
             evaluacion.ControlImpulsos = controlImpulsos.GlobalScore;
             evaluacion.EstabilidadEmocional = controlImpulsos.GlobalScore + controlEmocional.GlobalScore;
 
+            evaluacion.ControlEmocionesT = transformaPuntos.ControlEmociones(controlEmocional.GlobalScore, genero);
+            evaluacion.ControlImpulsosT = transformaPuntos.ControlImpulsos(controlImpulsos.GlobalScore, genero);
+            evaluacion.EstabilidadEmocionalT =transformaPuntos.EstabilidadEmocional((controlImpulsos.GlobalScore + controlEmocional.GlobalScore), genero);
+
+
             //APERTURA MENTAL
 
             var aperturaCultura = new AperturaCultura();
@@ -74,12 +87,19 @@ namespace BigFive.Server.Core.Process
             evaluacion.AperturaExperiencia = aperturaExperincia.GlobalScore;
             evaluacion.AperturaMental = aperturaExperincia.GlobalScore + aperturaCultura.GlobalScore;
 
+            evaluacion.AperturaCulturaT = transformaPuntos.AperturaCultura(aperturaCultura.GlobalScore, genero);
+            evaluacion.AperturaExperienciaT = transformaPuntos.AperturaExperiensa(aperturaExperincia.GlobalScore, genero);
+            evaluacion.AperturaMentalT =
+                transformaPuntos.AperturaMentall((aperturaExperincia.GlobalScore + aperturaCultura.GlobalScore), genero);
+
+
             //Distorcion 
             var distorcion = new Distorsion();
             _calculador.Procesar(examenContestado, distorcion);
 
             evaluacion.Distorsion = distorcion.GlobalScore;
 
+            evaluacion.DistorsionT = transformaPuntos.Distorcion(distorcion.GlobalScore, genero);
 
             return evaluacion;
         }

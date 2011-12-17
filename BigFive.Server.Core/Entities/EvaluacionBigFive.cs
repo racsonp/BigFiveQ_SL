@@ -29,6 +29,30 @@ namespace BigFive.Server.Core.Entities
         public virtual int AperturaCultura { get; set; }
         public virtual int AperturaExperiencia{ get; set; }
 
+
+        //Recordar  que hay puntuacion Directa y 
+        //puntuacion Transformada por los baremos ( usada para interpretar ( graficar ) )
+            
+
+        public virtual int EnergiaT  { get; set; }
+        public virtual int TesonT { get; set; }
+        public virtual int AfabilidadT { get; set; }
+        public virtual int EstabilidadEmocionalT { get; set; }
+        public virtual int AperturaMentalT { get; set; }
+
+        public virtual int DistorsionT { get; set; }
+
+        public virtual int DinamismoT { get; set; }
+        public virtual int DominanciaT { get; set; }
+        public virtual int CooperacionT { get; set; }
+        public virtual int CordialidadT { get; set; }
+        public virtual int EscrupolosidadT { get; set; }
+        public virtual int PerseveranciaT { get; set; }
+        public virtual int ControlEmocionesT { get; set; }
+        public virtual int ControlImpulsosT { get; set; }
+        public virtual int AperturaCulturaT { get; set; }
+        public virtual int AperturaExperienciaT { get; set; }
+
     
 
     }

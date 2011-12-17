@@ -17,7 +17,7 @@ namespace BigFive.Server.Core.Test
     [TestFixture]
     public class BaseDeDatosTest
     {
-       // [Test]
+        [Test]
         public void CrearDataBase()
         {
             var result = CrearDb();
@@ -135,9 +135,8 @@ namespace BigFive.Server.Core.Test
             }
             Console.WriteLine("Evaluacion added!!");
         }
-
-      //  [Test]
         //PersisteEvaluacionTest
+      [Test]       
         public void GuardaEvalacion()
         {
             var puntos = new PuntajeBigFive
@@ -174,6 +173,40 @@ namespace BigFive.Server.Core.Test
                 Perseverancia = 34
                 ,
                 Teson = 67
+
+                ,
+                 AfabilidadT = 67
+                ,
+                AperturaCulturaT = 35
+                ,
+                AperturaExperienciaT = 33
+                ,
+                AperturaMentalT = 68
+                ,
+                ControlEmocionesT = 41
+                ,
+                ControlImpulsosT = 39
+                ,
+                CooperacionT = 32
+                ,
+                CordialidadT = 35
+                ,
+                DinamismoT = 33
+                ,
+                DistorsionT = 23
+                ,
+                DominanciaT = 35
+                ,
+                EnergiaT = 68
+                ,
+                EscrupolosidadT = 33
+                ,
+                EstabilidadEmocionalT = 80
+
+                ,
+                PerseveranciaT = 34
+                ,
+                TesonT = 67
             };
 
 

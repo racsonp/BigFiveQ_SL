@@ -107,7 +107,7 @@ namespace ReporteBigFiveQ
     }
 
     /// <summary>
-    /// SunDiemciones here
+    /// SubDimenciones here
     /// </summary>
 
     public class Dinamismo:IDimencion

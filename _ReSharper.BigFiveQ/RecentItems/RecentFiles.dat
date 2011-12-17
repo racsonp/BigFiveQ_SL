@@ -1,17 +1,5 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:MujeresPe.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:Valor.cs" caret="0" fromTop="0" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:MujeresT.cs" caret="114" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesA.cs" caret="114" fromTop="0" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesAc.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesAe.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesAM.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesCe.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesCi.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesCo.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesCp.cs" caret="115" fromTop="4" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesD.cs" caret="114" fromTop="4" />
     <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesDi.cs" caret="115" fromTop="4" />
     <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesDo.cs" caret="115" fromTop="4" />
     <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:VaronesE.cs" caret="118" fromTop="6" />
@@ -23,44 +11,56 @@
     <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:IBaremo.cs" caret="159" fromTop="8" />
     <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Baremos/f:MujeresDi.cs" caret="96" fromTop="4" />
     <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:TransformacionPuntaje.cs" caret="948" fromTop="27" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="4878" fromTop="26" />
     <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2616" fromTop="62" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:EvaluaExamenBfq.cs" caret="507" fromTop="18" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/f:ProcesaExamen.cs" caret="997" fromTop="21" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Common/f:PuntajeBigFive.cs" caret="72" fromTop="2" />
     <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:ExamenBfqService.svc.cs" caret="2771" fromTop="26" />
-    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:PersitensiaNh/f:PersisteEvaluacion.cs" caret="240" fromTop="9" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Entities/f:EvaluacionBigFive.cs" caret="1136" fromTop="7" />
+    <File id="492225CF-C5DC-4CE9-870C-E69E8BAFDC23/f:ReporteBfq.cs" caret="0" fromTop="0" />
+    <File id="492225CF-C5DC-4CE9-870C-E69E8BAFDC23/f:GraficoBigFiveQ.xaml.cs" caret="642" fromTop="0" />
+    <File id="492225CF-C5DC-4CE9-870C-E69E8BAFDC23/f:IDimencion.cs" caret="2208" fromTop="4" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Common/f:PuntajeBigFive.cs" caret="58" fromTop="2" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Entities/f:EvaluacionBigFive.hbm.xml" caret="680" fromTop="1" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Models/f:EvaluacionService.metadata.cs" caret="1046" fromTop="0" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Models/f:PersonaService.metadata.cs" caret="2400" fromTop="25" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="688" fromTop="17" />
+    <File id="5A5A115B-0E7D-4C59-B02F-ADCBEA0DF2FD/d:Views/f:Evaluaciones.xaml.cs" caret="7367" fromTop="15" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Data/f:PersonaRepositoryNh.cs" caret="582" fromTop="20" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/f:ProcesaExamen.cs" caret="696" fromTop="11" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:EvaluaExamenBfq.cs" caret="380" fromTop="12" />
+    <File id="5A5A115B-0E7D-4C59-B02F-ADCBEA0DF2FD/d:Views/f:ReporteWindow.xaml.cs" caret="198" fromTop="12" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:PersitensiaNh/f:PersisteEvaluacion.cs" caret="191" fromTop="0" />
+    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="6829" fromTop="94" />
+    <File id="C5F73A9C-C7FD-48A3-8A03-BDFF7887CC90/f:ServiceReferences.ClientConfig" caret="752" fromTop="17" />
   </RecentFiles>
   <RecentEdits>
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="20" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="14" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="19" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="17" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="9" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="24" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="11" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2947" fromTop="6" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="0" fromTop="0" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:TransformacionPuntaje.cs" caret="375" fromTop="12" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="5898" fromTop="27" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="6087" fromTop="29" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="194" fromTop="9" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="341" fromTop="5" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="4878" fromTop="20" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2938" fromTop="29" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2778" fromTop="26" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2439" fromTop="18" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="1567" fromTop="29" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="1510" fromTop="28" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="926" fromTop="23" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="1256" fromTop="19" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="1920" fromTop="15" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2275" fromTop="24" />
-    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:PuntuacionDirectaToPuntuacionTransformada.cs" caret="2616" fromTop="14" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/f:ProcesaExamen.cs" caret="794" fromTop="17" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/f:ProcesaExamen.cs" caret="1076" fromTop="24" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/f:ProcesaExamen.cs" caret="231" fromTop="9" />
-    <File id="DD50CF20-468E-453E-97B9-124246A75626/f:ProcesaExamen.cs" caret="1395" fromTop="20" />
-    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:ExamenBfqService.svc.cs" caret="288" fromTop="9" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:EvaluaExamenBfq.cs" caret="3009" fromTop="22" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:EvaluaExamenBfq.cs" caret="3955" fromTop="32" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:EvaluaExamenBfq.cs" caret="4917" fromTop="29" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Process/f:EvaluaExamenBfq.cs" caret="5223" fromTop="27" />
+    <File id="492225CF-C5DC-4CE9-870C-E69E8BAFDC23/f:IDimencion.cs" caret="2208" fromTop="15" />
+    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="361" fromTop="19" />
+    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="5904" fromTop="15" />
+    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="6664" fromTop="21" />
+    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="6770" fromTop="26" />
+    <File id="82BD3EE6-56E0-4358-B692-55FDB7E0DC79/f:CrearDataBaseTest.cs" caret="4898" fromTop="19" />
+    <File id="DD50CF20-468E-453E-97B9-124246A75626/d:Entities/f:EvaluacionBigFive.hbm.xml" caret="1056" fromTop="27" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="352" fromTop="13" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="222" fromTop="8" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Models/f:PersonaService.metadata.cs" caret="1228" fromTop="15" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Models/f:PersonaService.metadata.cs" caret="1572" fromTop="11" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Models/f:PersonaService.metadata.cs" caret="1844" fromTop="15" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Models/f:PersonaService.metadata.cs" caret="2239" fromTop="19" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Models/f:PersonaService.metadata.cs" caret="1228" fromTop="9" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="1045" fromTop="6" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="2217" fromTop="30" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="2221" fromTop="8" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="688" fromTop="16" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="996" fromTop="25" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:Services/f:LeerService.txt" caret="487" fromTop="7" />
+    <File id="5A5A115B-0E7D-4C59-B02F-ADCBEA0DF2FD/d:Views/f:Evaluaciones.xaml.cs" caret="4932" fromTop="9" />
+    <File id="5A5A115B-0E7D-4C59-B02F-ADCBEA0DF2FD/d:Views/f:Evaluaciones.xaml.cs" caret="6553" fromTop="27" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:PersitensiaNh/f:PersisteEvaluacion.cs" caret="4433" fromTop="15" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:PersitensiaNh/f:PersisteEvaluacion.cs" caret="4433" fromTop="25" />
+    <File id="B050A594-E6F5-47F2-BA02-53973C378032/d:PersitensiaNh/f:PersisteEvaluacion.cs" caret="4523" fromTop="29" />
+    <File id="C5F73A9C-C7FD-48A3-8A03-BDFF7887CC90/f:ServiceReferences.ClientConfig" caret="486" fromTop="11" />
   </RecentEdits>
 </RecentFiles>

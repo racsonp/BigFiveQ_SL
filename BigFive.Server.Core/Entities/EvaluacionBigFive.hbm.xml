@@ -25,8 +25,27 @@ namespace="BigFive.Server.Core.Entities">
    <property name="ControlEmociones" />
    <property name="ControlImpulsos" />
    <property name="AperturaCultura" />
-   <property name="AperturaExperiencia" />   
+   <property name="AperturaExperiencia" />
 
-  </class>
+   <property name="EnergiaT" />
+   <property name="TesonT" />
+   <property name="AfabilidadT" />
+   <property name="EstabilidadEmocionalT" />
+   <property name="AperturaMentalT" />
+
+   <property name="DistorsionT" />
+
+   <property name="DinamismoT" />
+   <property name="DominanciaT" />
+   <property name="CooperacionT" />
+   <property name="CordialidadT" />
+   <property name="EscrupolosidadT" />
+   <property name="PerseveranciaT" />
+   <property name="ControlEmocionesT" />
+   <property name="ControlImpulsosT" />
+   <property name="AperturaCulturaT" />
+   <property name="AperturaExperienciaT" />
+
+ </class>
 </hibernate-mapping>
 

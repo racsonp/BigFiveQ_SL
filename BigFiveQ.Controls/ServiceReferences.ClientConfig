@@ -9,7 +9,7 @@
             </customBinding>
         </bindings>
         <client>
-            <endpoint address="http://racsonp.apphb.com/services/ExamenBfqService.svc"
+            <endpoint address="http://localhost:8579/Services/ExamenBfqService.svc"
                 binding="customBinding" bindingConfiguration="CustomBinding_ExamenBfqService"
                 contract="ExamenBfqService.ExamenBfqService" name="CustomBinding_ExamenBfqService" />
         </client>
