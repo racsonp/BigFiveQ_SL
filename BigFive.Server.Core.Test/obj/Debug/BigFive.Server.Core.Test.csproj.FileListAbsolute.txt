@@ -90,3 +90,4 @@ E:\Code\BigFiveQ\scr\BigFive.Server.Core.Test\bin\Debug\Castle.Core.xml
 E:\Code\BigFiveQ\scr\BigFive.Server.Core.Test\obj\Debug\ResolveAssemblyReference.cache
 E:\Code\BigFiveQ\scr\BigFive.Server.Core.Test\obj\Debug\BigFive.Server.Core.Test.dll
 E:\Code\BigFiveQ\scr\BigFive.Server.Core.Test\obj\Debug\BigFive.Server.Core.Test.pdb
+E:\Projects\BigFiveQ\scr\BigFive.Server.Core.Test\bin\Debug\log4net.dll
